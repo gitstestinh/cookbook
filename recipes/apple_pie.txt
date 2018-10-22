@@ -1,4 +1,5 @@
-1) do the things
+1.1) do the things
+1.2) add lemon juice
 2) eat the pie
 3) Clean up
 4) MAKE IT RAIN
